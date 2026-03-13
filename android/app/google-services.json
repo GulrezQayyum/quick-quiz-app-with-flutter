@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "32341282301",
+    "project_id": "todo-ca666",
+    "storage_bucket": "todo-ca666.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32341282301:android:bf39024d6f10551b151d94",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIRl-C2Q3czWmsy1EfPzbmhcVl53cvNnk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

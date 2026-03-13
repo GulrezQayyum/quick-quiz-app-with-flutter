@@ -1,0 +1,441 @@
+{
+    "computer_science": {
+        "Pointer & Memory": [
+            {
+                "question": "What does a pointer store?",
+                "options": [
+                    "Memory address",
+                    "Value",
+                    "Variable name",
+                    "Function"
+                ],
+                "correctAnswerIndex": 0
+            },
+
+            {
+                "question": "Which of these is true about pointers in arrays?",
+                "options": [
+                    "Array name is a constant pointer",
+                    "Array cannot be accessed by pointers",
+                    "Pointers cannot point to arrays",
+                    "Array is bigger than pointer"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which header file is required for malloc and free?",
+                "options": [
+                    "stdlib.h",
+                    "stdio.h",
+                    "string.h",
+                    "memory.h"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "What is the address of a pointer variable stored in?",
+                "options": [
+                    "CPU register",
+                    "Heap",
+                    "Stack",
+                    "ROM"
+                ],
+                "correctAnswerIndex": 2
+            }
+        ],
+        "Object-Oriented Programming": [
+            {
+                "question": "Which of the following is not a principle of OOP?",
+                "options": [
+                    "Encapsulation",
+                    "Polymorphism",
+                    "Recursion",
+                    "Inheritance"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which concept hides the internal details of an object?",
+                "options": [
+                    "Encapsulation",
+                    "Abstraction",
+                    "Polymorphism",
+                    "Inheritance"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which access modifier makes class members visible only within the class?",
+                "options": [
+                    "Public",
+                    "Protected",
+                    "Private",
+                    "Default"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which OOP concept models real-world entities?",
+                "options": [
+                    "Inheritance",
+                    "Polymorphism",
+                    "Object",
+                    "Encapsulation"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which operator is overloaded for output in C++?",
+                "options": [
+                    "<<",
+                    ">>",
+                    "++",
+                    "--"
+                ],
+                "correctAnswerIndex": 0
+            }
+        ],
+        "Algorithm Analysis": [
+            {
+                "question": "What is the time complexity of binary search?",
+                "options": [
+                    "O(n)",
+                    "O(log n)",
+                    "O(n log n)",
+                    "O(1)"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "What is the best-case time complexity of QuickSort?",
+                "options": [
+                    "O(n)",
+                    "O(n log n)",
+                    "O(n^2)",
+                    "O(log n)"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "What is the average case complexity of linear search?",
+                "options": [
+                    "O(1)",
+                    "O(log n)",
+                    "O(n)",
+                    "O(n log n)"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which notation represents the upper bound of an algorithm?",
+                "options": [
+                    "Big O",
+                    "Theta",
+                    "Omega",
+                    "Sigma"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which algorithm uses a priority queue?",
+                "options": [
+                    "Dijkstra’s Algorithm",
+                    "DFS",
+                    "BFS",
+                    "Prim’s Algorithm"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "What is the worst-case complexity of Bubble Sort?",
+                "options": [
+                    "O(n)",
+                    "O(log n)",
+                    "O(n log n)",
+                    "O(n^2)"
+                ],
+                "correctAnswerIndex": 3
+            }
+        ],
+        "Data Structures": [
+            {
+                "question": "Which data structure works on FIFO principle?",
+                "options": [
+                    "Stack",
+                    "Queue",
+                    "Tree",
+                    "Graph"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which data structure uses LIFO?",
+                "options": [
+                    "Queue",
+                    "Stack",
+                    "Heap",
+                    "Array"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "What is the time complexity of accessing an element in an array?",
+                "options": [
+                    "O(1)",
+                    "O(log n)",
+                    "O(n)",
+                    "O(n log n)"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which data structure is used for recursion?",
+                "options": [
+                    "Stack",
+                    "Queue",
+                    "Heap",
+                    "Tree"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which data structure is best for implementing BFS?",
+                "options": [
+                    "Stack",
+                    "Queue",
+                    "Array",
+                    "Heap"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "What is the maximum number of children a binary tree node can have?",
+                "options": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "correctAnswerIndex": 1
+            }
+        ],
+        "Recursion & Backtracking": [
+            {
+                "question": "What is recursion?",
+                "options": [
+                    "A function that calls itself",
+                    "A loop inside a function",
+                    "A data structure",
+                    "A compiler error"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which of the following is required for a recursive function?",
+                "options": [
+                    "Base case",
+                    "Infinite loop",
+                    "Stack overflow",
+                    "Constructor"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "What will happen if a base case is missing in recursion?",
+                "options": [
+                    "Function will stop automatically",
+                    "Infinite recursion leading to stack overflow",
+                    "Program will run faster",
+                    "It will compile but not execute"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Recursion uses which data structure internally?",
+                "options": [
+                    "Queue",
+                    "Stack",
+                    "Heap",
+                    "Graph"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which algorithm is a classic example of backtracking?",
+                "options": [
+                    "Binary Search",
+                    "Tower of Hanoi",
+                    "N-Queens Problem",
+                    "Bubble Sort"
+                ],
+                "correctAnswerIndex": 2
+            }
+        ],
+        "The Internet": [
+            {
+                "question": "What does the term 'Internet' stand for?",
+                "options": [
+                    "International Network",
+                    "Internal Network",
+                    "Interconnected Nodes",
+                    "Integrated Net"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which protocol is primarily used for web browsing?",
+                "options": [
+                    "FTP",
+                    "SMTP",
+                    "HTTP",
+                    "SNMP"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "What does IP stand for?",
+                "options": [
+                    "Internet Path",
+                    "Internal Protocol",
+                    "Internet Protocol",
+                    "Information Process"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which of the following uniquely identifies a device on the Internet?",
+                "options": [
+                    "MAC Address",
+                    "IP Address",
+                    "URL",
+                    "DNS"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which organization is responsible for domain name system (DNS) management?",
+                "options": [
+                    "ICANN",
+                    "IEEE",
+                    "ISO",
+                    "IETF"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which is more secure: HTTP or HTTPS?",
+                "options": [
+                    "HTTP",
+                    "HTTPS",
+                    "Both are same",
+                    "Depends on browser"
+                ],
+                "correctAnswerIndex": 1
+            }
+        ],
+        "SQL & Databases": [
+            {
+                "question": "What does SQL stand for?",
+                "options": [
+                    "Structured Query Language",
+                    "Simple Query Language",
+                    "Sequential Query Language",
+                    "Standard Question Language"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "Which SQL statement is used to extract data from a database?",
+                "options": [
+                    "GET",
+                    "SELECT",
+                    "EXTRACT",
+                    "READ"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which command is used to remove a table from a database?",
+                "options": [
+                    "DELETE TABLE",
+                    "REMOVE TABLE",
+                    "DROP TABLE",
+                    "CLEAR TABLE"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "Which SQL clause is used to filter the result set?",
+                "options": [
+                    "WHERE",
+                    "HAVING",
+                    "FILTER",
+                    "SORT"
+                ],
+                "correctAnswerIndex": 0
+            },
+            {
+                "question": "What does the PRIMARY KEY do in a table?",
+                "options": [
+                    "Allows duplicate values",
+                    "Uniquely identifies each record",
+                    "Links two tables",
+                    "Stores NULL values"
+                ],
+                "correctAnswerIndex": 1
+            }
+        ],
+        "Basic Security": [
+            {
+                "question": "What does a firewall do?",
+                "options": [
+                    "Encrypts files",
+                    "Blocks unauthorized access",
+                    "Manages passwords",
+                    "Scans for malware"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "What is the process of converting data into a coded form to prevent unauthorized access?",
+                "options": [
+                    "Hashing",
+                    "Encryption",
+                    "Compression",
+                    "Decryption"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which of these is an example of a strong password?",
+                "options": [
+                    "password123",
+                    "qwerty",
+                    "G!7x$9Lp@2",
+                    "123456"
+                ],
+                "correctAnswerIndex": 2
+            },
+            {
+                "question": "What type of attack involves overwhelming a server with requests?",
+                "options": [
+                    "Phishing",
+                    "DDoS",
+                    "Brute Force",
+                    "Man-in-the-Middle"
+                ],
+                "correctAnswerIndex": 1
+            },
+            {
+                "question": "Which of these is an example of social engineering?",
+                "options": [
+                    "SQL Injection",
+                    "Phishing email",
+                    "Ransomware",
+                    "Trojan horse"
+                ],
+                "correctAnswerIndex": 1
+            }
+        ]
+    }
+}
