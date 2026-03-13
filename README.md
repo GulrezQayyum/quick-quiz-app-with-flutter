@@ -251,7 +251,7 @@ Back to Category Page ✅
 
 **Gulrez Qayyum**
 
-[LinkedIn](https://linkedin.com/in/GulrezQayyum)
+[LinkedIn](https://www.linkedin.com/in/gulrez-qayyum-999345322/)
 [GitHub](https://github.com/GulrezQayyum)
 
 ---
